@@ -1,0 +1,1 @@
+Automatic publishing from the private Minecraft server repository works.
