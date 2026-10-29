@@ -1,0 +1,26 @@
+# Never publish secrets
+.env
+.env.*
+*.pem
+*.key
+secrets/
+
+# Minecraft runtime/server data
+world/
+world_*/
+logs/
+crash-reports/
+backups/
+server.properties
+ops.json
+whitelist.json
+banned-*.json
+
+# Don't directly store mod jars in Git
+*.jar
+
+# Windows/macOS/editor clutter
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
