@@ -1,5 +1,2 @@
 hash-format = "sha256"
-
-[[files]]
-file = "config/manager-test.txt"
-hash = "740ea75e81d00be49d7028ca0fea7e0242be03afe1bc53c7f2850cab8cb3c06f"
+files = []
