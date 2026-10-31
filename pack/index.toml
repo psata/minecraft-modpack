@@ -1,2 +1,21 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "aeed2fee189eb57a955f272dc2d51ad7cd6d17016283a017cd35cf9eab60448e"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "08acf2c07f7a1a567df5de78deb4a9a2bf87e0a257fd3a54ac1c649187f92684"
+metafile = true
+
+[[files]]
+file = "mods/ore-harvester.pw.toml"
+hash = "a1b2d3b1cfb66369e87a194c5b1dee7094bf578c014ac197b54731844386528b"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "713d68c38c1b35da2fa28c27482b5998e5ae6f856e92a34ee1394df05686c293"
+metafile = true

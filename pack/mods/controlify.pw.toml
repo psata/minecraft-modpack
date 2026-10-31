@@ -1,0 +1,12 @@
+name = "Controlify (Controller support)"
+filename = "controlify-2.5.2+1.21.1-neoforge.jar"
+side = "client"
+[download]
+hash-format = "sha1"
+hash = "6991f5494fb7dbc201b645d293a43ea9e6e5a5a5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7451537
+project-id = 835847

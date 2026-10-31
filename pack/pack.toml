@@ -1,12 +1,12 @@
 name = "ATM10 Custom Overlay"
 author = "psata"
-version = "0.1.4-test"
+version = ".0.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7b81c9e9d9e6e21a9865a2dded0dfd77e7683d679b98fe5b0114eaed9a31f17e"
+hash = "1c88485d69c8d18acecb7d790434431d11ad6c265b88e51041097a2495e034b2"
 
 [versions]
 minecraft = "1.21.1"
